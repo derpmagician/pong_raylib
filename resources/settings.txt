@@ -1,0 +1,2 @@
+pointsToWin=5
+maxBallSpeed=40
